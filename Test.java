@@ -97,7 +97,7 @@ public class Test{
                    for(int j :t)   {
                        shortestR.add(j);
                    }
-                   //shortestR.add(x);
+                   
                }
             }
         }
